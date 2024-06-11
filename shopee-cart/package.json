@@ -1,0 +1,13 @@
+{
+  "name": "shopee-cart",
+  "version": "1.0.0",
+  "description": "Carrinho do shopee no terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
